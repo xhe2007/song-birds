@@ -1,0 +1,12 @@
+scientific_name,iucn_category,can_use_artificial_habitats,is_traded_as_pet
+Pica pica,LC,TRUE,FALSE
+Passer montanus,LC,TRUE,TRUE
+Aix galericulata,LC,TRUE,TRUE
+Motacilla alba,LC,TRUE,TRUE
+Astur gentilis,LC,FALSE,FALSE
+Phasianus colchicus,LC,TRUE,TRUE
+Chrysolophus pictus,LC,TRUE,TRUE
+Pterorhinus courtoisi,CR,TRUE,TRUE
+Emberiza aureola,CR,TRUE,TRUE
+Pavo muticus,EN,TRUE,TRUE
+Acridotheres cristatellus,LC,TRUE,TRUE
